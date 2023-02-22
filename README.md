@@ -1,5 +1,4 @@
-# 💫 About Me:
-programando...
+Programando...
 
 
 ## 🌐 Socials:
