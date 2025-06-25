@@ -1,5 +1,4 @@
-# 💫 About Me:
-Programando...
+# 💫 Hello World!
 
 
 # 💻 Tech Stack:
